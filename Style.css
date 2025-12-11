@@ -1,0 +1,123 @@
+
+body{
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover; 
+}
+
+
+.size td{
+	width: 120px;
+	font-size: 17px;
+}
+
+
+.size a:hover{
+	color: black;
+	font-size: 18px;
+}
+
+.size a{
+	text-decoration: inherit;
+}
+
+.size a.active{
+	text-decoration: underline;
+	font-size: 18px;
+	color: black;
+}
+
+.size2 td{
+	width: 360px;
+}
+
+.size2 p{
+	font-size: 18px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.size2 tr{
+	text-align: center;
+}
+
+.InfoBar tr{
+	text-align: center;
+	color: black;
+}
+
+.InfoBar td{
+	width: 33%;
+}
+
+
+.ddd{
+	color: black;
+}
+/*общее*/
+
+
+
+/*головна*/
+
+
+h1{
+	font-size: 18px;
+	opacity: 0.8;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+h2{
+	font-size: 15px;
+	opacity: 0.6;
+	font-family: Arial, sans-serif
+}
+
+h3{
+		font-size: 20px;
+		opacity: 0.9;
+		font-family: Arial, sans-serif
+}
+
+.icon2 td{
+	width: 330px
+}
+
+.icon img{
+	width: 110px;
+}
+
+.photo{
+	width: 300px;
+	height: 400px;
+}
+
+.size2 img{
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+button {
+	background-color: #ad59de;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	margin-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
